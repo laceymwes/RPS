@@ -1,0 +1,9 @@
+<resources>
+  <string name="app_name">RPS</string>
+  <string name="action_start">Run</string>
+  <string name="action_stop">Stop</string>
+  <string name="action_reset">Reset</string>
+  <string name="speed_slider_label">Speed</string>
+  <string name="mixing_slider_label">Mixing</string>
+  <string name="iterations_format">%1$,d</string>
+</resources>
